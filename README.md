@@ -1,8 +1,12 @@
-# Created using "Create React App"
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Created using [Create React App](https://github.com/facebook/create-react-app).
 
 IMPORTANT: before you can run it you need to run `npm install`
+
+Simple atm projects that lets you deposit money as well as retire it.
+Bootstrap was used for the styles.
+Formik was used for the validation and for handling the submition of the form.
+Every component is in a single file.
+useState hooks were used to create stateLogic functions that were passed to the ATMDeposit component as props.
 
 ## Available Scripts
 
